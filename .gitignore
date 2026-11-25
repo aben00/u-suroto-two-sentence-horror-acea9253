@@ -1,0 +1,5 @@
+node_modules/
+output/
+u-suroto-two-sentence-horror-acea9253-kit/
+*.tgz
+.DS_Store
